@@ -1,0 +1,14 @@
+# Private overlay: never shared
+LOCAL.md
+
+# Checker output and Python noise
+*-frames/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets, any variant
+.env
+.env.*
+*.key
+*.pem
